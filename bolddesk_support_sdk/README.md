@@ -1,4 +1,4 @@
-# bolddesk_support_sdk
+# flutter_support_sdk
 
 A new Flutter plugin project.
 
