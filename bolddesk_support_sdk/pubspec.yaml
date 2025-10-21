@@ -1,7 +1,7 @@
-name: bolddesk_support_sdk
+name: flutter_support_sdk
 description: "The SDK provides easy access to help your app end users"
 version: 1.0.0
-homepage: https://gitea.syncfusion.com/bold-desk/bolddesk-mobile-sdk-app/src/branch/BolddeskSupportSDKFlutter/bolddesk-sdk-flutter/bolddesk_support_sdk
+homepage: https://github.com/Santhosh-4035/Flutter-SDK
 environment:
   sdk: ^3.7.2
   flutter: '>=3.3.0'
