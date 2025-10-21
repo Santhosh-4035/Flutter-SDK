@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "87177284729",
+    "project_id": "bolddesksdk",
+    "storage_bucket": "bolddesksdk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87177284729:android:5b8518774ec1f98d20d8a8",
+        "android_client_info": {
+          "package_name": "com.bolddesksupportsdk.bolddesk_support_sdk_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdgY6lVPm5D48n8HsRMJsz3YDbzc0hP2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87177284729:android:97485807f6733af620d8a8",
+        "android_client_info": {
+          "package_name": "com.example.bolddesksdk_android_sample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdgY6lVPm5D48n8HsRMJsz3YDbzc0hP2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87177284729:android:e475730baf6e5e6820d8a8",
+        "android_client_info": {
+          "package_name": "com.syncfusion.bolddeskmobileSDK"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdgY6lVPm5D48n8HsRMJsz3YDbzc0hP2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

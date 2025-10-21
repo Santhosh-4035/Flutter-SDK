@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"bolddesksdk","appId":"1:87177284729:android:5b8518774ec1f98d20d8a8","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"bolddesksdk","configurations":{"android":"1:87177284729:android:5b8518774ec1f98d20d8a8","ios":"1:87177284729:ios:d7a535f373a0078020d8a8"}}}}}}
